@@ -1,2 +1,2 @@
 # Implementation-of-Collaborative-Filtering
-协同过滤算法的实现
+基于Python实现协同过滤算法的实现
